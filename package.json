@@ -1,0 +1,11 @@
+{
+  "name": "cmsify-frontend",
+  "version": "0.0.1",
+  "description": "cmsify-admin fetches data, applys it to HTML and also clones list items if necessary, for a cmsify frontend using HTML flags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Donnelly",
+  "license": "MIT"
+}
